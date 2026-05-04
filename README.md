@@ -58,7 +58,9 @@
 
 # NURS 7701 Resources
 
-## Project Classification and Initial Pre-Approval
+## Module 1
+
+### Project Classification and Initial Pre-Approval
 
 We need to get initial approval for your project sites and project format.
 
@@ -69,6 +71,71 @@ I need to select a project to fulfill the requirements of a DNP scholarly projec
 
 My idea is <describe your project idea here>.
 ```
+## Module 2
+
+### Problem Statement & Question Development
+
+### A3 Problem, Background, Current Condition Part 1
+
+## Module 3
+
+### Project Progression
+
+## Module 4
+
+### Searching, Screening, and Appraising the Evidence
+
+### Question Development Tool (resubmit)
+
+### A3 Problem, Background, Current Condition Part 1 (resubmit)
+
+## Module 5
+
+### Best Evidence Summary Tool
+
+### A3 Purpose Statement & Root Cause Analysis Part 2
+
+## Module 6
+
+### Summary, Synthesis, & Best-Evidence Recommendation
+
+### Searching, Screening, and Appraising the Evidence
+
+## Module 7
+
+### A3 Best Practice Recommendations & Implementation Plan
+
+### Purpose Statement and A3 Root Cause Analysis Part 2 (resubmit)
+
+### Best Evidence Summary Tool (resubmit)
+
+## Module 8
+
+### Translation Tool
+
+### Summary, Synthesis, & Best-Evidence Recommendation Tool (resubmit)
+
+## Module 9
+
+### A3 Evaluation Part 4
+
+### A3 Best Practice Recommendations & Implementation Plan Part 3 (resubmit)
+
+## Module 10
+
+### JHEBP Model
+
+### A3 Evaluation Part 4 (resubmit)
+
+### Translation Tool (resubmit)
+
+## Module 11
+
+### Project Proposal PPT Draft
+
+### JHEBP Assignment (resubmit)
+
+### Citi-Training & Good Clinical Practice
 
 # NURS 7702 Resources
 
