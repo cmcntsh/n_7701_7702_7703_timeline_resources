@@ -91,61 +91,103 @@ Use prompt at link: []()
 
 ### Project Progression
 
+Use prompt at link: []()
+
 ## Module 4
 
 ### Searching, Screening, and Appraising the Evidence
 
+Use prompt at link: []()
+
 ### Question Development Tool (resubmit)
 
+Use prompt at link: []()
+
 ### A3 Problem, Background, Current Condition Part 1 (resubmit)
+
+Use prompt at link: []()
 
 ## Module 5
 
 ### Best Evidence Summary Tool
 
+Use prompt at link: []()
+
 ### A3 Purpose Statement & Root Cause Analysis Part 2
+
+Use prompt at link: []()
 
 ## Module 6
 
 ### Summary, Synthesis, & Best-Evidence Recommendation
 
+Use prompt at link: []()
+
 ### Searching, Screening, and Appraising the Evidence
+
+Use prompt at link: []()
 
 ## Module 7
 
 ### A3 Best Practice Recommendations & Implementation Plan
 
+Use prompt at link: []()
+
 ### Purpose Statement and A3 Root Cause Analysis Part 2 (resubmit)
 
+Use prompt at link: []()
+
 ### Best Evidence Summary Tool (resubmit)
+
+Use prompt at link: []()
 
 ## Module 8
 
 ### Translation Tool
 
+Use prompt at link: []()
+
 ### Summary, Synthesis, & Best-Evidence Recommendation Tool (resubmit)
+
+Use prompt at link: []()
 
 ## Module 9
 
 ### A3 Evaluation Part 4
 
+Use prompt at link: []()
+
 ### A3 Best Practice Recommendations & Implementation Plan Part 3 (resubmit)
+
+Use prompt at link: []()
 
 ## Module 10
 
 ### JHEBP Model
 
+Use prompt at link: []()
+
 ### A3 Evaluation Part 4 (resubmit)
 
+Use prompt at link: []()
+
 ### Translation Tool (resubmit)
+
+Use prompt at link: []()
 
 ## Module 11
 
 ### Project Proposal PPT Draft
 
+Use prompt at link: []()
+
 ### JHEBP Assignment (resubmit)
 
+Use prompt at link: []()
+
 ### Citi-Training & Good Clinical Practice
+
+Use prompt at link: []()
 
 # NURS 7702 Resources
 
