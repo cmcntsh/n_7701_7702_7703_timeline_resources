@@ -55,3 +55,21 @@
 | 04/11/2027-04/17/2027 | Spring   | 7703   | 14   | M13 - Poster Presentation             |                         |           |                         |
 | 04/18/2027-04/24/2027 | Spring   | 7703   | 15   | M14 - Final Manuscript Committee (AD) |                         |           |                         |
 | 04/25/2027-05/01/2027 | Spring   | 7703   | 16   |                                       |                         |           |                         |
+
+# NURS 7701 Resources
+
+## Project Classification and Initial Pre-Approval
+
+We need to get initial approval for your project sites and project format.
+
+Prompt: Classify a project according to categories outlined in the DNP Handbook (Upload the DNP Handbook to ChatGPT to run this prompt.)
+
+```
+I need to select a project to fulfill the requirements of a DNP scholarly project. The requirements are outlined in the DNP Handbook. The first step in selecting a project is to ensure it falls into one of the accepted categories listed on pages 3 and 4 of the DNP Handbook (EBQI project, Program Evaluation, Policy, or Innovative Health System Design). I'm going to describe a project idea. Please categorize it as the DNP project that best matches it. Please provide your rationale for your classification. Please quote relevant passages from the DNP Handbook that support your rationale and provide the page number for the quote. Please suggest ideas of how the project could be modified to make it a better fit for one of the accepted project categories. Ask questions if you need additional information to understand the project well enough to make the classification.
+
+My idea is <describe your project idea here>.
+```
+
+# NURS 7702 Resources
+
+# NURS 7703 Resources
