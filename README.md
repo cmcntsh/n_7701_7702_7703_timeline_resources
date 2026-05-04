@@ -85,7 +85,13 @@ Use prompt at link: [3. Prompt: Evaluate an EBP question](https://github.com/cmc
 
 ### A3 Problem, Background, Current Condition Part 1
 
-Use prompt at link: []()
+Watch video at link: [JHEBP Problem Description Blueprint](https://www.youtube.com/watch?v=BUgIaK79gkA)
+
+The sections of the A3 document match with the paragraphs described in the video.
+
+* A3: LOCAL PROBLEM - Use paragraph 1 from the video
+* BACKGROUND - Use paragraph 4 from the video
+* CURRENT STATE - Use paragraphs 2 & 3 from the video
 
 ## Module 3
 
