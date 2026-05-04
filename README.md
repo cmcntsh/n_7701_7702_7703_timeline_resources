@@ -75,9 +75,17 @@ My idea is <describe your project idea here>.
 
 ### Problem Statement & Question Development
 
-Use prompt at link: [Prompt: Evaluate the problem statement according to JHEBP5](https://github.com/cmcntsh/JHEBP5_steps_resources#2-practice-question-develop-the-problem-statement)
+Use prompt at link: [2. Prompt: Evaluate the problem statement according to JHEBP5](https://github.com/cmcntsh/JHEBP5_steps_resources#2-practice-question-develop-the-problem-statement)
+
+Use prompt at link: [3. Prompt: Get help writing broad EBP questions](https://github.com/cmcntsh/JHEBP5_steps_resources#3-practice-question-write-the-ebp-question-population-setting-topic-or-intervention-outcomes)
+
+Use prompt at link: [3. Prompt: Get help writing practice EBP questions](https://github.com/cmcntsh/JHEBP5_steps_resources#3-practice-question-write-the-ebp-question-population-setting-topic-or-intervention-outcomes)
+
+Use prompt at link: [3. Prompt: Evaluate an EBP question](https://github.com/cmcntsh/JHEBP5_steps_resources#3-practice-question-write-the-ebp-question-population-setting-topic-or-intervention-outcomes)
 
 ### A3 Problem, Background, Current Condition Part 1
+
+Use prompt at link: []()
 
 ## Module 3
 
