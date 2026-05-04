@@ -75,6 +75,8 @@ My idea is <describe your project idea here>.
 
 ### Problem Statement & Question Development
 
+Use prompt at link: [Prompt: Evaluate the problem statement according to JHEBP5](https://github.com/cmcntsh/JHEBP5_steps_resources#2-practice-question-develop-the-problem-statement)
+
 ### A3 Problem, Background, Current Condition Part 1
 
 ## Module 3
