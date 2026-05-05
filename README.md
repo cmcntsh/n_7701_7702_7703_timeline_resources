@@ -66,11 +66,25 @@
   * In Windows, you can tell you have Grammarly installed by going to the system tray and clicking on the circle with the G in it, and opening the settings.
   * To open Grammarly settings on a Mac, click the Grammarly icon in the top menu bar and select Settings (or the gear icon).
 
+### Graduate Writing Materials
+
+#### The Writing Process
+
+* [SQUIRE overview video](https://www.youtube.com/watch?v=chZJuKlK4J4)
+* [Prewriting video](https://www.youtube.com/watch?v=rlqDoUZGySg)
+* [Writing video](https://www.youtube.com/watch?v=q1_r0EqSYVY)
+* [Writing theory video (Gopen's concepts)](https://www.youtube.com/watch?v=bwKqzt6kAjg)
+* [Rewriting video (reverse outlining)](https://www.youtube.com/watch?v=EGvQtYsvxEU)
+
+#### Writing Theory
+
 ## Module 1
 
 ### Project Classification and Initial Pre-Approval
 
 We need to get initial approval for your project sites and project format.
+
+* [Evaluate a project idea using ChatGPT video demo](https://www.youtube.com/watch?v=u451GcK6EGA)
 
 Prompt: Classify a project according to categories outlined in the DNP Handbook (Upload the DNP Handbook to ChatGPT to run this prompt.)
 
@@ -82,6 +96,8 @@ My idea is <describe your project idea here>.
 ## Module 2
 
 ### Problem Statement & Question Development
+
+* [Evaluate a problem statement and help writing practice questions video demo](https://www.youtube.com/watch?v=u451GcK6EGA)
 
 Use prompt at link: [2. Prompt: Evaluate the problem statement according to JHEBP5](https://github.com/cmcntsh/JHEBP5_steps_resources#2-practice-question-develop-the-problem-statement)
 
