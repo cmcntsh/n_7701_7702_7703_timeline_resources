@@ -78,6 +78,28 @@
 
 #### Writing Theory
 
+##### Articles about sentence construction
+
+* Gopen, G. D. (2011). The importance of stress: Indicating the most important words in a sentence. Litigation, 38(1), 20–21. [Article](), [Podcast]()
+* Gopen, G. D. (2012). Ensuring readers know what actions are happening in any sentence. Litigation, 38(2), 15. [Article](), [Podcast]()
+* Gopen, G. D. (2012). Whose story is this sentence-directing readers’ perceptions of narrative. Litigation, 38(3), 17. [Article](), [Podcast]()
+* Gopen, G. D. (2013). Who done it: Controlling agency in legal writing, part II. Litigation, 39(2), 12. [Article](), [Podcast]()
+* Gopen, G. D. (2013). How to overburden your reader: Separate your subject from your verb. Litigation, 39(3), 14. [Article](), [Podcast]()
+* Gopen, G. D. (2013). Why the passive voice should be used and appreciated-not avoided. Litigation, 40(2), 16. [Article](), [Podcast]()
+* Gopen, G. D. (2013). The number two problem in legal writing: Solved. Litigation, 40(4), 21. [Article](), [Podcast]()
+* Gopen, G. D. (2016). The progress of thought: To move forward, link backward. Litigation, 42(2), 16–17. [Article](), [Podcast]()
+* Gopen, G. D. (2018). A quiver of punctuation. Litigation, 45(1), 15–17. [Article](), [Podcast]()
+* Gopen, G. D. (2019). A once rogue punctuation mark gains respectability: What you can now accomplish with an em dash. Litigation, 46(1), 13. [Article](), [Podcast]()
+
+##### Articles about paragraph construction
+
+* Gopen, G. D. (2015). What’s at issue: The construction of the English paragraph, part I. Litigation, 42(3), 16. [Article](), [Podcast]()
+* Gopen, G. D. (2015). What’s at issue: The construction of the English paragraph, part II. Litigation, 42(4), 16. [Article](), [Podcast]()
+* Gopen, G. D. (2016). Connectivity: The construction of the English paragraph, part III. Litigation, 43(1), 14. [Article](), [Podcast]()
+* Gopen, G. D. (2017). The point of a paragraph and where to find it: The construction of the English paragraph, part iv. Litigation, 43(2), 15–16. [Article](), [Podcast]()
+* Gopen, G. D. (2016). Five varieties of point placement: The construction of the English paragraph, part V. Litigation, 43, 13. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_23_five-varieties-point-placement.pdf), [Podcast](https://www.youtube.com/watch?v=04P3Z8WLXWY)
+* Gopen, G. D. (2017). How paragraphs speak to each other. Litigation, 44(3), 53. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_24_--_how_paragraphs_speak_to_each_other.pdf), [Podcast](https://www.youtube.com/watch?v=ySuJF6QUgOQ)
+
 ## Module 1
 
 ### Project Classification and Initial Pre-Approval
