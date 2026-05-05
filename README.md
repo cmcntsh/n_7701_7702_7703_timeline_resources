@@ -23,7 +23,10 @@ Based on the DNP Scholarly Project Handbook and general best practices, here are
 
 * Download and install the Grammarly add-in.
 * Address the issues in your writing that Grammarly identifies. (Assignments that have multiple spelling or grammar errors or that have problems with clarity and conciseness will be sent back to you for correction before grading.)
-* **Assess how well you have addressed the content for each section with AI before submitting your assignments. If you have missed certain content, address it before submitting your assignment. (If you haven't been using ChatGPT or another chat tool, we can go over how to use this when we meet.)**
+* **Assess how well you have addressed the content for each section with AI before submitting your assignments.** If you have missed certain content, address it before submitting your assignment. (If you haven't been using ChatGPT or another chat tool, we can go over how to use this when we meet.) This will allow me to spend time providing substantive feedback and not commenting on things that could be easily caught using an AI tool.
+
+> "I have one job on this ship!"
+> — [Gwen on Galaxy Quest](https://www.youtube.com/shorts/yPfyMJYWTlY)
 
 # NURS 7701/7702/7703 Timeline
 
