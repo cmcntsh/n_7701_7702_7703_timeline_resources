@@ -60,6 +60,9 @@
 
 ## Setting Things Up
 
+> "Well begun is half done."
+> — [Mary Poppins](https://www.youtube.com/watch?v=RHZnBNS1yeI)
+
 * Set up a U of U ChatGPT account. https://ai.utah.edu/tools/chatgpt/get-started.php
 * Install Zotero (or other citation manager) on your computer. https://www.zotero.org/
 * Install the Grammarly add-in on your computer. https://gradschool.utah.edu/resources-hub/grammarly/index.php
