@@ -1,3 +1,30 @@
+# Introduction
+
+## General Tips
+
+### Role of the Scholarly Project Chair:
+
+* Facilitate your learning through all phases of the project: planning, development, implementation, and evaluation.
+* Provide guidance and feedback on your work, including your scholarly manuscript.
+* Help ensure you meet all project requirements, including QI/IRB compliance.
+* Maintain consistent and effective communication with you.
+
+### Tips for Success in Your Scholarly Project:
+
+Based on the DNP Scholarly Project Handbook and general best practices, here are a few tips to help you succeed:
+
+* **Proactive Communication:** Maintain open and timely communication with me regarding your progress, any challenges you encounter, or if you anticipate missing a deadline. It is your responsibility to contact me in advance if situations arise that impact assignments or due dates.
+* **Utilize Course Resources:** Take full advantage of the resources provided in the Canvas course, including announcements, podcasts/videos, examples, and guidelines like the SQUIRE Guidelines Table and manuscript template.
+* **Plan Ahead:** The DNP project has distinct phases and requires careful planning. Begin thinking about your project ideas, potential clinical questions, and establishing relationships with organizations and potential sponsors early on.
+* **Embrace Scholarly Writing:** Scholarly writing is a key component of this project and your professional development. Be prepared for an iterative writing process and utilize resources like Grammarly Premium and the Graduate Writing Center.
+* **Attend Meetings Prepared:** Come to our bi-weekly meetings prepared to discuss your progress, ask questions, and engage in a productive discussion.
+
+### Here are some key points to remember while you're writing and before submitting assignments:
+
+* Download and install the Grammarly add-in.
+* Address the issues in your writing that Grammarly identifies. (Assignments that have multiple spelling or grammar errors or that have problems with clarity and conciseness will be sent back to you for correction before grading.)
+* **Assess how well you have addressed the content for each section with AI before submitting your assignments. If you have missed certain content, address it before submitting your assignment. (If you haven't been using ChatGPT or another chat tool, we can go over how to use this when we meet.)**
+
 # NURS 7701/7702/7703 Timeline
 
 | dates                 | semester | course | week | module                                | Due                     | Resources | notes                   |
@@ -83,6 +110,8 @@
 
 ##### Articles about sentence construction
 
+While these articles are addressed to a legal audience, the same principles apply to scholarly writing in the sciences.
+
 * Gopen, G. D. (2011). The importance of stress: Indicating the most important words in a sentence. Litigation, 38(1), 20–21. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_2_stress_position.pdf), [Podcast](https://www.youtube.com/watch?v=DKWcQCo4jek)
 * Gopen, G. D. (2012). Ensuring readers know what actions are happening in any sentence. Litigation, 38(2), 15. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_3_actions_and_verbs.pdf), [Podcast](https://www.youtube.com/watch?v=F-fneZDBswE)
 * Gopen, G. D. (2012). Whose story is this sentence-directing readers’ perceptions of narrative. Litigation, 38(3), 17. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_4_whose_story.pdf), [Podcast](https://www.youtube.com/watch?v=MVkKS8Qtk8s)
@@ -95,6 +124,8 @@
 * Gopen, G. D. (2019). A once rogue punctuation mark gains respectability: What you can now accomplish with an em dash. Litigation, 46(1), 13. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_29___a_once_rogue_punctuation_mark_gains_respectability.pdf), [Podcast](https://www.youtube.com/watch?v=ETQRyT5-gzc)
 
 ##### Articles about paragraph construction
+
+While these articles are addressed to a legal audience, the same principles apply to scholarly writing in the sciences.
 
 * Gopen, G. D. (2015). What’s at issue: The construction of the English paragraph, part I. Litigation, 42(3), 16. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_19_construction-english-paragraph.pdf), [Podcast](https://www.youtube.com/watch?v=rAbwK5A8KtM)
 * Gopen, G. D. (2015). What’s at issue: The construction of the English paragraph, part II. Litigation, 42(4), 16. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_20_whats_at_issue_part_2.pdf), [Podcast](https://www.youtube.com/watch?v=FGCIFEZO5yA)
