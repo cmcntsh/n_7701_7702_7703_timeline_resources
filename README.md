@@ -32,6 +32,22 @@ Based on the DNP Scholarly Project Handbook and general best practices, here are
 
 </details>
 
+<details>
+ 
+<summary>Computer Setup Needed</summary>
+
+No content here yet.
+ 
+</details>
+
+<details>
+ 
+<summary>Graduate Writing</summary>
+
+No content here yet.
+ 
+</details>
+
 # NURS 7701/7702/7703 Timeline
 
 <details>
