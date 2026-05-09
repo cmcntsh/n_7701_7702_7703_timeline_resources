@@ -306,4 +306,20 @@ Use prompt at link: []()
 
 # NURS 7702 Resources
 
+<details>
+ 
+ <summary>NURS 7702 Modules</summary>
+
+No content here yet.
+ 
+</details>
+
 # NURS 7703 Resources
+
+<details>
+ 
+ <summary>NURS 7703 Modules</summary>
+
+No content here yet.
+ 
+</details>
