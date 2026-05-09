@@ -171,6 +171,8 @@ While these articles are addressed to a legal audience, the same principles appl
 
 <summary>NURS 7701 Modules</summary>
 
+## Module 1
+
 <details>
  
 <summary>Module 1</summary>
@@ -190,6 +192,8 @@ My idea is <describe your project idea here>.
 ```
 
 </details>
+
+## Module 2
 
 <details>
  
@@ -226,6 +230,8 @@ The sections of the A3 document match with the paragraphs described in the video
 * CURRENT STATE - Use paragraphs 2 & 3 from the video
 
 </details>
+
+## Module 3
 
 <details>
  
