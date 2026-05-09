@@ -1,6 +1,8 @@
 # Introduction
 
-## General Tips
+<details>
+
+<summary>General Tips</summary>
 
 ### Role of the Scholarly Project Chair:
 
@@ -27,6 +29,8 @@ Based on the DNP Scholarly Project Handbook and general best practices, here are
 
 > "I have one job on this ship!"
 > — [Gwen on Galaxy Quest](https://www.youtube.com/shorts/yPfyMJYWTlY)
+
+</details>
 
 # NURS 7701/7702/7703 Timeline
 
