@@ -34,6 +34,10 @@ Based on the DNP Scholarly Project Handbook and general best practices, here are
 
 # NURS 7701/7702/7703 Timeline
 
+<details>
+
+<summary>See the timeline for NURS 7701, 7702, 7703</summary>
+
 | dates                 | semester | course | week | module                                | Due                     | Resources | notes                   |
 |:---------------------:|:--------:|:------:|:----:|:-------------------------------------:|:-----------------------:|:---------:|:-----------------------:|
 | 04/26/2026-05/02/2026 |          |        |      |                                       |                         |           |                         |
@@ -89,6 +93,8 @@ Based on the DNP Scholarly Project Handbook and general best practices, here are
 | 04/11/2027-04/17/2027 | Spring   | 7703   | 14   | M13 - Poster Presentation             | See 7703 Resources      | Below     |                         |
 | 04/18/2027-04/24/2027 | Spring   | 7703   | 15   | M14 - Final Manuscript Committee (AD) | See 7703 Resources      | Below     |                         |
 | 04/25/2027-05/01/2027 | Spring   | 7703   | 16   |                                       |                         |           |                         |
+
+</details>
 
 # NURS 7701 Resources
 
