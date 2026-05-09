@@ -36,8 +36,17 @@ Based on the DNP Scholarly Project Handbook and general best practices, here are
  
 <summary>Computer Setup Needed</summary>
 
-No content here yet.
- 
+### Setting Things Up
+
+> "Well begun is half done."
+> — [Mary Poppins](https://www.youtube.com/watch?v=RHZnBNS1yeI)
+
+* Set up a U of U ChatGPT account. https://ai.utah.edu/tools/chatgpt/get-started.php
+* Install Zotero (or other citation manager) on your computer. https://www.zotero.org/
+* Install the Grammarly add-in on your computer. https://gradschool.utah.edu/resources-hub/grammarly/index.php
+  * In Windows, you can tell you have Grammarly installed by going to the system tray and clicking on the circle with the G in it, and opening the settings.
+  * To open Grammarly settings on a Mac, click the Grammarly icon in the top menu bar and select Settings (or the gear icon).
+
 </details>
 
 <details>
@@ -113,17 +122,6 @@ No content here yet.
 </details>
 
 # NURS 7701 Resources
-
-## Setting Things Up
-
-> "Well begun is half done."
-> — [Mary Poppins](https://www.youtube.com/watch?v=RHZnBNS1yeI)
-
-* Set up a U of U ChatGPT account. https://ai.utah.edu/tools/chatgpt/get-started.php
-* Install Zotero (or other citation manager) on your computer. https://www.zotero.org/
-* Install the Grammarly add-in on your computer. https://gradschool.utah.edu/resources-hub/grammarly/index.php
-  * In Windows, you can tell you have Grammarly installed by going to the system tray and clicking on the circle with the G in it, and opening the settings.
-  * To open Grammarly settings on a Mac, click the Grammarly icon in the top menu bar and select Settings (or the gear icon).
 
 ### Graduate Writing Materials
 
