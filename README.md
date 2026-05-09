@@ -308,7 +308,7 @@ Use prompt at link: []()
 
 <details>
  
- <summary>NURS 7702 Modules</summary>
+<summary>NURS 7702 Modules</summary>
 
 No content here yet.
  
@@ -318,7 +318,7 @@ No content here yet.
 
 <details>
  
- <summary>NURS 7703 Modules</summary>
+<summary>NURS 7703 Modules</summary>
 
 No content here yet.
  
