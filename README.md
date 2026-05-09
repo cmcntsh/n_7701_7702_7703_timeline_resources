@@ -53,8 +53,52 @@ Based on the DNP Scholarly Project Handbook and general best practices, here are
  
 <summary>Graduate Writing</summary>
 
-No content here yet.
- 
+### Graduate Writing Materials
+
+#### The Writing Process
+
+* [SQUIRE overview video](https://www.youtube.com/watch?v=chZJuKlK4J4)
+* [Prewriting video](https://www.youtube.com/watch?v=rlqDoUZGySg)
+* [Writing video](https://www.youtube.com/watch?v=q1_r0EqSYVY)
+* [Writing theory video (Gopen's concepts)](https://www.youtube.com/watch?v=bwKqzt6kAjg)
+* [Rewriting video (reverse outlining)](https://www.youtube.com/watch?v=EGvQtYsvxEU)
+
+#### Writing Theory
+
+##### Articles about sentence construction
+
+While these articles are addressed to a legal audience, the same principles apply to scholarly writing in the sciences.
+
+* Gopen, G. D. (2011). The importance of stress: Indicating the most important words in a sentence. Litigation, 38(1), 20–21. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_2_stress_position.pdf), [Podcast](https://www.youtube.com/watch?v=DKWcQCo4jek)
+* Gopen, G. D. (2012). Ensuring readers know what actions are happening in any sentence. Litigation, 38(2), 15. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_3_actions_and_verbs.pdf), [Podcast](https://www.youtube.com/watch?v=F-fneZDBswE)
+* Gopen, G. D. (2012). Whose story is this sentence-directing readers’ perceptions of narrative. Litigation, 38(3), 17. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_4_whose_story.pdf), [Podcast](https://www.youtube.com/watch?v=MVkKS8Qtk8s)
+* Gopen, G. D. (2013). Who done it: Controlling agency in legal writing, part II. Litigation, 39(2), 12. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_7_controlling_agency_pt2.pdf), [Podcast](https://www.youtube.com/watch?v=ap_msJXP_3c)
+* Gopen, G. D. (2013). How to overburden your reader: Separate your subject from your verb. Litigation, 39(3), 14. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_8_s_v_c_separation.pdf), [Podcast](https://www.youtube.com/watch?v=wYjpsqA0fa0)
+* Gopen, G. D. (2013). Why the passive voice should be used and appreciated-not avoided. Litigation, 40(2), 16. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_10_why_the_passive_should_be_used.pdf), [Podcast](https://www.youtube.com/watch?v=iTJlCEQpAaE)
+* Gopen, G. D. (2013). The number two problem in legal writing: Solved. Litigation, 40(4), 21. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_12_the_2_problem_in_legal_writing_solved.pdf), [Podcast](https://www.youtube.com/watch?v=Utc0twUEQVM)
+* Gopen, G. D. (2016). The progress of thought: To move forward, link backward. Litigation, 42(2), 16–17. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_18_the_progress_of_thought.pdf), [Podcast](https://www.youtube.com/watch?v=8t6iKD4NXco)
+* Gopen, G. D. (2018). A quiver of punctuation. Litigation, 45(1), 15–17. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_25_punctuation_quiver___handling_2_clauses_in_1_sentence.pdf), [Podcast](https://www.youtube.com/watch?v=5TCgsVQQY6k)
+* Gopen, G. D. (2019). A once rogue punctuation mark gains respectability: What you can now accomplish with an em dash. Litigation, 46(1), 13. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_29___a_once_rogue_punctuation_mark_gains_respectability.pdf), [Podcast](https://www.youtube.com/watch?v=ETQRyT5-gzc)
+
+##### Articles about paragraph construction
+
+While these articles are addressed to a legal audience, the same principles apply to scholarly writing in the sciences.
+
+* Gopen, G. D. (2015). What’s at issue: The construction of the English paragraph, part I. Litigation, 42(3), 16. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_19_construction-english-paragraph.pdf), [Podcast](https://www.youtube.com/watch?v=rAbwK5A8KtM)
+* Gopen, G. D. (2015). What’s at issue: The construction of the English paragraph, part II. Litigation, 42(4), 16. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_20_whats_at_issue_part_2.pdf), [Podcast](https://www.youtube.com/watch?v=FGCIFEZO5yA)
+* Gopen, G. D. (2016). Connectivity: The construction of the English paragraph, part III. Litigation, 43(1), 14. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_21_connectivity.pdf), [Podcast](https://www.youtube.com/watch?v=pkioLsObI_8)
+* Gopen, G. D. (2017). The point of a paragraph and where to find it: The construction of the English paragraph, part IV. Litigation, 43(2), 15–16. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_22_point-of-paragraph.pdf), [Podcast](https://www.youtube.com/watch?v=kaFLquTwEQ4)
+* Gopen, G. D. (2016). Five varieties of point placement: The construction of the English paragraph, part V. Litigation, 43, 13. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_23_five-varieties-point-placement.pdf), [Podcast](https://www.youtube.com/watch?v=04P3Z8WLXWY)
+* Gopen, G. D. (2017). How paragraphs speak to each other. Litigation, 44(3), 53. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_24_--_how_paragraphs_speak_to_each_other.pdf), [Podcast](https://www.youtube.com/watch?v=ySuJF6QUgOQ)
+
+#### Working With Word
+
+* [Styles](https://www.youtube.com/watch?v=jo-qrKfRCEc)
+* [Headings](https://www.youtube.com/watch?v=FegVI8HLwAU)
+* [References](https://www.youtube.com/watch?v=DP3rnmMIGSE)
+* [Tables](https://www.youtube.com/watch?v=jeANQ1shPO0)
+* [AI help interpreting tables](https://www.youtube.com/watch?v=nPC9WJBBBj8)
+
 </details>
 
 # NURS 7701/7702/7703 Timeline
@@ -122,52 +166,6 @@ No content here yet.
 </details>
 
 # NURS 7701 Resources
-
-### Graduate Writing Materials
-
-#### The Writing Process
-
-* [SQUIRE overview video](https://www.youtube.com/watch?v=chZJuKlK4J4)
-* [Prewriting video](https://www.youtube.com/watch?v=rlqDoUZGySg)
-* [Writing video](https://www.youtube.com/watch?v=q1_r0EqSYVY)
-* [Writing theory video (Gopen's concepts)](https://www.youtube.com/watch?v=bwKqzt6kAjg)
-* [Rewriting video (reverse outlining)](https://www.youtube.com/watch?v=EGvQtYsvxEU)
-
-#### Writing Theory
-
-##### Articles about sentence construction
-
-While these articles are addressed to a legal audience, the same principles apply to scholarly writing in the sciences.
-
-* Gopen, G. D. (2011). The importance of stress: Indicating the most important words in a sentence. Litigation, 38(1), 20–21. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_2_stress_position.pdf), [Podcast](https://www.youtube.com/watch?v=DKWcQCo4jek)
-* Gopen, G. D. (2012). Ensuring readers know what actions are happening in any sentence. Litigation, 38(2), 15. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_3_actions_and_verbs.pdf), [Podcast](https://www.youtube.com/watch?v=F-fneZDBswE)
-* Gopen, G. D. (2012). Whose story is this sentence-directing readers’ perceptions of narrative. Litigation, 38(3), 17. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_4_whose_story.pdf), [Podcast](https://www.youtube.com/watch?v=MVkKS8Qtk8s)
-* Gopen, G. D. (2013). Who done it: Controlling agency in legal writing, part II. Litigation, 39(2), 12. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_7_controlling_agency_pt2.pdf), [Podcast](https://www.youtube.com/watch?v=ap_msJXP_3c)
-* Gopen, G. D. (2013). How to overburden your reader: Separate your subject from your verb. Litigation, 39(3), 14. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_8_s_v_c_separation.pdf), [Podcast](https://www.youtube.com/watch?v=wYjpsqA0fa0)
-* Gopen, G. D. (2013). Why the passive voice should be used and appreciated-not avoided. Litigation, 40(2), 16. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_10_why_the_passive_should_be_used.pdf), [Podcast](https://www.youtube.com/watch?v=iTJlCEQpAaE)
-* Gopen, G. D. (2013). The number two problem in legal writing: Solved. Litigation, 40(4), 21. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_12_the_2_problem_in_legal_writing_solved.pdf), [Podcast](https://www.youtube.com/watch?v=Utc0twUEQVM)
-* Gopen, G. D. (2016). The progress of thought: To move forward, link backward. Litigation, 42(2), 16–17. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_18_the_progress_of_thought.pdf), [Podcast](https://www.youtube.com/watch?v=8t6iKD4NXco)
-* Gopen, G. D. (2018). A quiver of punctuation. Litigation, 45(1), 15–17. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_25_punctuation_quiver___handling_2_clauses_in_1_sentence.pdf), [Podcast](https://www.youtube.com/watch?v=5TCgsVQQY6k)
-* Gopen, G. D. (2019). A once rogue punctuation mark gains respectability: What you can now accomplish with an em dash. Litigation, 46(1), 13. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_29___a_once_rogue_punctuation_mark_gains_respectability.pdf), [Podcast](https://www.youtube.com/watch?v=ETQRyT5-gzc)
-
-##### Articles about paragraph construction
-
-While these articles are addressed to a legal audience, the same principles apply to scholarly writing in the sciences.
-
-* Gopen, G. D. (2015). What’s at issue: The construction of the English paragraph, part I. Litigation, 42(3), 16. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_19_construction-english-paragraph.pdf), [Podcast](https://www.youtube.com/watch?v=rAbwK5A8KtM)
-* Gopen, G. D. (2015). What’s at issue: The construction of the English paragraph, part II. Litigation, 42(4), 16. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_20_whats_at_issue_part_2.pdf), [Podcast](https://www.youtube.com/watch?v=FGCIFEZO5yA)
-* Gopen, G. D. (2016). Connectivity: The construction of the English paragraph, part III. Litigation, 43(1), 14. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_21_connectivity.pdf), [Podcast](https://www.youtube.com/watch?v=pkioLsObI_8)
-* Gopen, G. D. (2017). The point of a paragraph and where to find it: The construction of the English paragraph, part IV. Litigation, 43(2), 15–16. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_22_point-of-paragraph.pdf), [Podcast](https://www.youtube.com/watch?v=kaFLquTwEQ4)
-* Gopen, G. D. (2016). Five varieties of point placement: The construction of the English paragraph, part V. Litigation, 43, 13. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_23_five-varieties-point-placement.pdf), [Podcast](https://www.youtube.com/watch?v=04P3Z8WLXWY)
-* Gopen, G. D. (2017). How paragraphs speak to each other. Litigation, 44(3), 53. [Article](https://www.georgegopen.com/uploads/1/0/9/0/109073507/litigation_24_--_how_paragraphs_speak_to_each_other.pdf), [Podcast](https://www.youtube.com/watch?v=ySuJF6QUgOQ)
-
-#### Working With Word
-
-* [Styles](https://www.youtube.com/watch?v=jo-qrKfRCEc)
-* [Headings](https://www.youtube.com/watch?v=FegVI8HLwAU)
-* [References](https://www.youtube.com/watch?v=DP3rnmMIGSE)
-* [Tables](https://www.youtube.com/watch?v=jeANQ1shPO0)
-* [AI help interpreting tables](https://www.youtube.com/watch?v=nPC9WJBBBj8)
 
 ## Module 1
 
