@@ -168,6 +168,10 @@ While these articles are addressed to a legal audience, the same principles appl
 # NURS 7701 Resources
 
 <details>
+
+<summary>NURS 7701 Modules</summary>
+
+<details>
  
 <summary>Module 1</summary>
 
@@ -358,6 +362,8 @@ Use prompt at link: []()
 ### Citi-Training & Good Clinical Practice
 
 Use prompt at link: []()
+
+</details>
 
 </details>
 
