@@ -169,6 +169,10 @@ While these articles are addressed to a legal audience, the same principles appl
 
 ## Module 1
 
+<details>
+ 
+<summary>NURS 7702 Modules</summary>
+
 ### Project Classification and Initial Pre-Approval
 
 We need to get initial approval for your project sites and project format.
@@ -182,7 +186,14 @@ I need to select a project to fulfill the requirements of a DNP scholarly projec
 
 My idea is <describe your project idea here>.
 ```
+
+</details>
+
 ## Module 2
+
+<details>
+ 
+<summary>NURS 7702 Modules</summary>
 
 ### Problem Statement & Question Development
 
@@ -214,11 +225,21 @@ The sections of the A3 document match with the paragraphs described in the video
 * BACKGROUND - Use paragraph 4 from the video
 * CURRENT STATE - Use paragraphs 2 & 3 from the video
 
+</details>
+
 ## Module 3
 
 ### Project Progression
 
 Use prompt at link: []()
+
+<details>
+ 
+<summary>NURS 7702 Modules</summary>
+
+No content here yet.
+ 
+</details>
 
 ## Module 4
 
@@ -234,6 +255,14 @@ Use prompt at link: []()
 
 Use prompt at link: []()
 
+<details>
+ 
+<summary>NURS 7702 Modules</summary>
+
+No content here yet.
+ 
+</details>
+
 ## Module 5
 
 ### Best Evidence Summary Tool
@@ -244,6 +273,14 @@ Use prompt at link: []()
 
 Use prompt at link: []()
 
+<details>
+ 
+<summary>NURS 7702 Modules</summary>
+
+No content here yet.
+ 
+</details>
+
 ## Module 6
 
 ### Summary, Synthesis, & Best-Evidence Recommendation
@@ -253,6 +290,14 @@ Use prompt at link: []()
 ### Searching, Screening, and Appraising the Evidence
 
 Use prompt at link: []()
+
+<details>
+ 
+<summary>NURS 7702 Modules</summary>
+
+No content here yet.
+ 
+</details>
 
 ## Module 7
 
@@ -268,6 +313,14 @@ Use prompt at link: []()
 
 Use prompt at link: []()
 
+<details>
+ 
+<summary>NURS 7702 Modules</summary>
+
+No content here yet.
+ 
+</details>
+
 ## Module 8
 
 ### Translation Tool
@@ -278,6 +331,14 @@ Use prompt at link: []()
 
 Use prompt at link: []()
 
+<details>
+ 
+<summary>NURS 7702 Modules</summary>
+
+No content here yet.
+ 
+</details>
+
 ## Module 9
 
 ### A3 Evaluation Part 4
@@ -287,6 +348,14 @@ Use prompt at link: []()
 ### A3 Best Practice Recommendations & Implementation Plan Part 3 (resubmit)
 
 Use prompt at link: []()
+
+<details>
+ 
+<summary>NURS 7702 Modules</summary>
+
+No content here yet.
+ 
+</details>
 
 ## Module 10
 
@@ -302,6 +371,14 @@ Use prompt at link: []()
 
 Use prompt at link: []()
 
+<details>
+ 
+<summary>NURS 7702 Modules</summary>
+
+No content here yet.
+ 
+</details>
+
 ## Module 11
 
 ### Project Proposal PPT Draft
@@ -315,6 +392,14 @@ Use prompt at link: []()
 ### Citi-Training & Good Clinical Practice
 
 Use prompt at link: []()
+
+<details>
+ 
+<summary>NURS 7702 Modules</summary>
+
+No content here yet.
+ 
+</details>
 
 # NURS 7702 Resources
 
