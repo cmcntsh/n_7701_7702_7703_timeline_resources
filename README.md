@@ -167,7 +167,7 @@ While these articles are addressed to a legal audience, the same principles appl
 
 # NURS 7701 Resources
 
-<details>
+<details open>
 
 <summary>NURS 7701 Modules</summary>
 
