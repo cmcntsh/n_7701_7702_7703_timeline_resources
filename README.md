@@ -167,11 +167,9 @@ While these articles are addressed to a legal audience, the same principles appl
 
 # NURS 7701 Resources
 
-## Module 1
-
 <details>
  
-<summary>NURS 7702 Modules</summary>
+<summary>Module 1</summary>
 
 ### Project Classification and Initial Pre-Approval
 
@@ -189,11 +187,9 @@ My idea is <describe your project idea here>.
 
 </details>
 
-## Module 2
-
 <details>
  
-<summary>NURS 7702 Modules</summary>
+<summary>Module 2</summary>
 
 ### Problem Statement & Question Development
 
@@ -227,21 +223,19 @@ The sections of the A3 document match with the paragraphs described in the video
 
 </details>
 
-## Module 3
+<details>
+ 
+<summary>Module 3</summary>
 
 ### Project Progression
 
 Use prompt at link: []()
 
-<details>
- 
-<summary>NURS 7702 Modules</summary>
-
-No content here yet.
- 
 </details>
 
-## Module 4
+<details>
+ 
+<summary>Module 4</summary>
 
 ### Searching, Screening, and Appraising the Evidence
 
@@ -255,15 +249,11 @@ Use prompt at link: []()
 
 Use prompt at link: []()
 
-<details>
- 
-<summary>NURS 7702 Modules</summary>
-
-No content here yet.
- 
 </details>
 
-## Module 5
+<details>
+ 
+<summary>Module 5</summary>
 
 ### Best Evidence Summary Tool
 
@@ -273,15 +263,11 @@ Use prompt at link: []()
 
 Use prompt at link: []()
 
-<details>
- 
-<summary>NURS 7702 Modules</summary>
-
-No content here yet.
- 
 </details>
 
-## Module 6
+<details>
+ 
+<summary>Module 6</summary>
 
 ### Summary, Synthesis, & Best-Evidence Recommendation
 
@@ -291,15 +277,11 @@ Use prompt at link: []()
 
 Use prompt at link: []()
 
-<details>
- 
-<summary>NURS 7702 Modules</summary>
-
-No content here yet.
- 
 </details>
 
-## Module 7
+<details>
+ 
+<summary>Module 7</summary>
 
 ### A3 Best Practice Recommendations & Implementation Plan
 
@@ -313,15 +295,11 @@ Use prompt at link: []()
 
 Use prompt at link: []()
 
-<details>
- 
-<summary>NURS 7702 Modules</summary>
-
-No content here yet.
- 
 </details>
 
-## Module 8
+<details>
+ 
+<summary>Module 8</summary>
 
 ### Translation Tool
 
@@ -331,15 +309,11 @@ Use prompt at link: []()
 
 Use prompt at link: []()
 
-<details>
- 
-<summary>NURS 7702 Modules</summary>
-
-No content here yet.
- 
 </details>
 
-## Module 9
+<details>
+ 
+<summary>Module 9</summary>
 
 ### A3 Evaluation Part 4
 
@@ -349,15 +323,11 @@ Use prompt at link: []()
 
 Use prompt at link: []()
 
-<details>
- 
-<summary>NURS 7702 Modules</summary>
-
-No content here yet.
- 
 </details>
 
-## Module 10
+<details>
+ 
+<summary>Module 10</summary>
 
 ### JHEBP Model
 
@@ -371,15 +341,11 @@ Use prompt at link: []()
 
 Use prompt at link: []()
 
-<details>
- 
-<summary>NURS 7702 Modules</summary>
-
-No content here yet.
- 
 </details>
 
-## Module 11
+<details>
+ 
+<summary>Module 11</summary>
 
 ### Project Proposal PPT Draft
 
@@ -393,12 +359,6 @@ Use prompt at link: []()
 
 Use prompt at link: []()
 
-<details>
- 
-<summary>NURS 7702 Modules</summary>
-
-No content here yet.
- 
 </details>
 
 # NURS 7702 Resources
