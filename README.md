@@ -277,11 +277,11 @@ See prompts under [Step 6](https://github.com/cmcntsh/JHEBP5_steps_resources#6-e
 
 ### Question Development Tool (resubmit)
 
-See prompts in Module 2: [Problem Statement & Question Development](https://github.com/cmcntsh/n_7701_7702_7703_timeline_resources#problem-statement--question-development)
+See prompts in Module 2: [Problem Statement & Question Development](https://github.com/cmcntsh/n_7701_7702_7703_timeline_resources#module-2)
 
 ### A3 Problem, Background, Current Condition Part 1 (resubmit)
 
-See prompts in Module 2: [A3 Problem, Background, Current Condition Part 1](https://github.com/cmcntsh/n_7701_7702_7703_timeline_resources#a3-problem-background-current-condition-part-1)
+See prompts in Module 2: [A3 Problem, Background, Current Condition Part 1](https://github.com/cmcntsh/n_7701_7702_7703_timeline_resources#module-2)
 
 </details>
 
