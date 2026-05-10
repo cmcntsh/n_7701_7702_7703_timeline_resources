@@ -199,6 +199,10 @@ My idea is <describe your project idea here>.
  
 <summary>Module 2</summary>
 
+### JHEBP 5th Ed. Process Steps Matched to Chapters & Appendices
+
+I went through the entire JHEBP 5th Ed. process and matched the steps to the book chapters and the appendices. I also created AI prompts which may be helpful at completing tasks at each step of the process. All of that material is on a separate page. [JHEBP Process Resources Page](https://github.com/cmcntsh/JHEBP5_steps_resources)
+
 ### Problem Statement & Question Development
 
 * [Evaluate a problem statement and help writing practice questions video demo](https://www.youtube.com/watch?v=u451GcK6EGA)
