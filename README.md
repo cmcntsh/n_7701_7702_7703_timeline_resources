@@ -255,11 +255,29 @@ Use prompt at link: []()
 
 ### Searching, Screening, and Appraising the Evidence
 
-Use prompt at link: []()
+#### JHEBP Step 4 Conduct a Best Evidence Search and Appraisal
+
+Use prompt at link: [Step 4 Action Item 1](https://github.com/cmcntsh/JHEBP5_steps_resources#41-action-item-1-identify-the-elements-of-the-ebp-questions-to-search-ch-7-p-95)
+
+Use prompt at link: [Step 4 Action Item 4](https://github.com/cmcntsh/JHEBP5_steps_resources#44-action-item-4-evaluate-the-search-results-ch-7-p-97)
+
+#### JHEBP Step 5 If needed, conduct an exhaustive search
+
+Use prompt at link: [Step 5.1 Action Item 1](https://github.com/cmcntsh/JHEBP5_steps_resources#511-action-item-1-determine-which-databases-to-search-ch-7-p-98)
+
+Use prompt at link: [Step 5.1 Action Item 6](https://github.com/cmcntsh/JHEBP5_steps_resources#516-action-item-6-evalutate-revise-and-refine-the-search-ch-7-p-107)
+
+Use prompt at link: [Step 5.2 Action Item 1](https://github.com/cmcntsh/JHEBP5_steps_resources#521-action-item-1-establish-inclusion-and-exclusion-criteria-for-the-literature-screening-ch-7-p-110)
+
+Use prompt at link: [Step 5.2 Action Item 4](https://github.com/cmcntsh/JHEBP5_steps_resources#524-action-item-4-complete-full-text-screening-for-all-articles-that-remain-after-screening-the-titles-and-abstracts-ch-7-p-112)
+
+#### JHEBP Step 6 Appraise the Evidence
+
+See prompts under [Step 6](https://github.com/cmcntsh/JHEBP5_steps_resources#6-evidence-appriase-the-evidence)
 
 ### Question Development Tool (resubmit)
 
-Use prompt at link: []()
+Use prompt at link: [Step 4 Action Item 1](https://github.com/cmcntsh/JHEBP5_steps_resources#41-action-item-1-identify-the-elements-of-the-ebp-questions-to-search-ch-7-p-95)
 
 ### A3 Problem, Background, Current Condition Part 1 (resubmit)
 
