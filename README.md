@@ -241,7 +241,7 @@ The sections of the A3 document match with the paragraphs described in the video
  
 <summary>Module 3</summary>
 
-### Project Progression
+### Project Progression (This is unpublished in Canvas. I'm waiting to see if this turns into something.)
 
 Use prompt at link: []()
 
