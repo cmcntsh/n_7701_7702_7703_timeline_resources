@@ -173,12 +173,18 @@ While these articles are addressed to a legal audience, the same principles appl
 
 ## Demonstration Videos
 
+<details>
+
+<summary>Demonstration Videos</summary>
+
 * Module 1 [Module 1 & Module 2 Assignments](https://www.youtube.com/watch?v=22Ll4spytos)
 * Module 1 [Introduction section of the extra resources page](https://www.youtube.com/watch?v=rAoYXxHkFrA)
 * Module 2 [Evaluate a problem statement and help writing practice questions video demo](https://www.youtube.com/watch?v=u451GcK6EGA)
 * Module 3 [JHEBP Problem Description Blueprint](https://www.youtube.com/watch?v=BUgIaK79gkA) ![Click here to download the guide document.](https://github.com/cmcntsh/N_7701_7702_7703_timeline_resources/raw/refs/heads/main/files/2026-04-30_writing_a_problem_description.docx)
 * Module 3 [Library resources for searching for and retrieving literature](https://www.youtube.com/watch?v=dmDjPKoJ09w)
 * Module 3 [Retrieve and screen literature in Zotero](https://www.youtube.com/watch?v=rA4diWLPKxA)
+
+</details>
 
 ## Module 1
 
