@@ -220,7 +220,7 @@ I went through the entire JHEBP 5th Ed. process and matched the steps to the boo
 
 ### Problem Statement & Question Development
 
-This assignment involves steps 2 and 3 of the JHEBP5 process. Step 2 information is described in Chapter 3 of the text. Step 3 is described in Chapter 4 of the text. The assignment is based on Appendix B of the text. I have provided a link to the text and prompts related to each step of the JHEBP5 process in a separate page. https://github.com/cmcntsh/JHEBP5_steps_resources I want you to run some evaluation prompts on specific sections of the assignment. Before running the prompts, go to the text online and download chapter 3, chapter 4, and Appendix B and upload them to ChatGPT.
+This assignment involves steps 2 and 3 of the JHEBP5 process. Step 2 information is described in Chapter 3 of the text. Step 3 is described in Chapter 4 of the text. The assignment is based on Appendix B of the text. At this stage in the JHEBP5 process, it is assumed you haven't settled on a specific intervention yet (even though we already have one in mind). I have provided a link to the text and prompts related to each step of the JHEBP5 process in a separate page. https://github.com/cmcntsh/JHEBP5_steps_resources I want you to run some evaluation prompts on specific sections of the assignment. Before running the prompts, go to the text online and download chapter 3, chapter 4, and Appendix B and upload them to ChatGPT.
 
 * [Evaluate a problem statement and help writing practice questions video demo](https://www.youtube.com/watch?v=u451GcK6EGA)
 
@@ -229,6 +229,8 @@ This assignment involves steps 2 and 3 of the JHEBP5 process. Step 2 information
 Use prompt at link: [2. Prompt: Evaluate the problem statement according to JHEBP5](https://github.com/cmcntsh/JHEBP5_steps_resources#2-practice-question-develop-the-problem-statement)
 
 #### Write a broad EBP question and a practice EBP question and include them both in the section titled "Record the completed EBP question below."
+
+For broad question in this assignment, pretend you haven't settled on an intervention yet and write the question like you don't know what you're going to do.
 
 Use prompt at link: [3. Prompt: Get help writing broad EBP questions](https://github.com/cmcntsh/JHEBP5_steps_resources#3-practice-question-write-the-ebp-question-population-setting-topic-or-intervention-outcomes)
 
