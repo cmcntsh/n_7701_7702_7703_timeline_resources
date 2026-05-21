@@ -220,17 +220,27 @@ I went through the entire JHEBP 5th Ed. process and matched the steps to the boo
 
 ### Problem Statement & Question Development
 
+This assignment involves steps 2 and 3 of the JHEBP5 process. Step 2 information is described in Chapter 3 of the text. Step 3 is described in Chapter 4 of the text. The assignment is based on Appendix B of the text. I have provided a link to the text and prompts related to each step of the JHEBP5 process in a separate page. https://github.com/cmcntsh/JHEBP5_steps_resources I want you to run some evaluation prompts on specific sections of the assignment. Before running the prompts, go to the text online and download chapter 3, chapter 4, and Appendix B and upload them to ChatGPT.
+
 * [Evaluate a problem statement and help writing practice questions video demo](https://www.youtube.com/watch?v=u451GcK6EGA)
 
+#### Evaluation #1: Evaluate the problem statement under the section called "Considering all of the information above, create a concise problem statement below."
+
 Use prompt at link: [2. Prompt: Evaluate the problem statement according to JHEBP5](https://github.com/cmcntsh/JHEBP5_steps_resources#2-practice-question-develop-the-problem-statement)
+
+#### Write a broad EBP question and a practice EBP question and include them both in the section titled "Record the completed EBP question below."
 
 Use prompt at link: [3. Prompt: Get help writing broad EBP questions](https://github.com/cmcntsh/JHEBP5_steps_resources#3-practice-question-write-the-ebp-question-population-setting-topic-or-intervention-outcomes)
 
 Use prompt at link: [3. Prompt: Get help writing practice EBP questions](https://github.com/cmcntsh/JHEBP5_steps_resources#3-practice-question-write-the-ebp-question-population-setting-topic-or-intervention-outcomes)
 
+#### Evaluate each of your questions using this prompt. (The questions you include in the assignment may be fine, but the prompt will provide some additional things to consider when you start to use your EBP questions to help you search for literature.)
+
 Use prompt at link: [3. Prompt: Evaluate an EBP question](https://github.com/cmcntsh/JHEBP5_steps_resources#3-practice-question-write-the-ebp-question-population-setting-topic-or-intervention-outcomes)
 
-Prompt: 1 to 5 assignment rating prompt. (Upload JHEBP chapter 3, appendix B, and the assignment to ChatGPT.)
+#### Run this overall evaluation prompt on your assignment file.
+
+Prompt: 1 to 5 assignment rating prompt. (Upload the assignment Word file to ChatGPT.)
 
 ```
 Please rate how well each of these sections has been answered. Use a 5-point quality rating scale where 1 = Unsatisfactory: work does not meet basic expectations and has major errors, omissions, or quality issues; 2 = Needs Improvement: work partially meets expectations but has noticeable problems, inconsistencies, or gaps; 3 = Satisfactory: work meets expectations at an acceptable level, with only minor issues that do not significantly affect quality; 4 = Strong: work exceeds basic expectations, is well-executed and reliable, and requires little correction; and 5 = Excellent: work consistently exceeds expectations and is highly accurate, polished, complete, and exemplary. In addition, please provide the rationale for each rating. In addition, please provide suggestions for improving the answers.
