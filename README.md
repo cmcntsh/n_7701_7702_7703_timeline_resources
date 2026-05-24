@@ -183,6 +183,7 @@ While these articles are addressed to a legal audience, the same principles appl
 * Module 3 [JHEBP Problem Description Blueprint](https://www.youtube.com/watch?v=BUgIaK79gkA) ![Click here to download the guide document.](https://github.com/cmcntsh/N_7701_7702_7703_timeline_resources/raw/refs/heads/main/files/2026-04-30_writing_a_problem_description.docx)
 * Module 3 [Library resources for searching for and retrieving literature](https://www.youtube.com/watch?v=dmDjPKoJ09w)
 * Module 3 [Retrieve and screen literature in Zotero](https://www.youtube.com/watch?v=rA4diWLPKxA)
+* Module 4 [Literature Search Suggestions Based on EBP Question](https://youtu.be/f8R9JhNLhPU)
 
 </details>
 
@@ -283,6 +284,8 @@ Use prompt at link: []()
 ### Searching, Screening, and Appraising the Evidence
 
 This assignment involves steps 4, 5, and 6 of the JHEBP 5th Edition process. Those are covered in chapters 6, 7, 8, and appendices C, D, E1, E2, E3, and F of the JHEBP 5th Edition text. A note about naming your articles and evidence appraisal forms: Some articles don't have a descriptive name when you download them. After downloading several articles, it becomes difficult to tell which article is which when looking at all of them in a folder when they lack descriptive names. For this reason, I like to use descriptive names for my articles. I typically use something that uses the first author last name, year of publication, and some sort of abbreviated version of the article title. It would be helpful for me if you did something similar when you submit your assignment. I would suggest you use the same name for your appraisal form and then add "AppraisalE1" or something similar at the end. That way your articles and your appraisal forms will stay next to each other in a group of files in a folder.
+
+* [Literature Search Suggestions Based on EBP Question](https://youtu.be/f8R9JhNLhPU)
 
 #### JHEBP Step 4 Conduct a Best Evidence Search and Appraisal
 
