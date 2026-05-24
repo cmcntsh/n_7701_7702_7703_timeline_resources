@@ -282,25 +282,27 @@ Use prompt at link: []()
 
 ### Searching, Screening, and Appraising the Evidence
 
+This assignment involves steps 4, 5, and 6 of the JHEBP 5th Edition process. 
+
 #### JHEBP Step 4 Conduct a Best Evidence Search and Appraisal
 
-Use prompt at link: [Step 4 Action Item 1](https://github.com/cmcntsh/JHEBP5_steps_resources#41-action-item-1-identify-the-elements-of-the-ebp-questions-to-search-ch-7-p-95)
+Get suggestions for sources of pre-appraised evidence and best search elements for each source. Use prompt at link: [Step 4 Action Item 1](https://github.com/cmcntsh/JHEBP5_steps_resources#41-action-item-1-identify-the-elements-of-the-ebp-questions-to-search-ch-7-p-95)
 
-Use prompt at link: [Step 4 Action Item 4](https://github.com/cmcntsh/JHEBP5_steps_resources#44-action-item-4-evaluate-the-search-results-ch-7-p-97)
+Review a best-evidence resource to ensure it addresses all aspects of an EBP question. Use prompt at link: [Step 4 Action Item 4](https://github.com/cmcntsh/JHEBP5_steps_resources#44-action-item-4-evaluate-the-search-results-ch-7-p-97)
 
 #### JHEBP Step 5 If needed, conduct an exhaustive search
 
-Use prompt at link: [Step 5.1 Action Item 1](https://github.com/cmcntsh/JHEBP5_steps_resources#511-action-item-1-determine-which-databases-to-search-ch-7-p-98)
+Determine which databases to search. Use prompt at link: [Step 5.1 Action Item 1](https://github.com/cmcntsh/JHEBP5_steps_resources#511-action-item-1-determine-which-databases-to-search-ch-7-p-98)
 
-Use prompt at link: [Step 5.1 Action Item 6](https://github.com/cmcntsh/JHEBP5_steps_resources#516-action-item-6-evalutate-revise-and-refine-the-search-ch-7-p-107)
+Potential follow-up prompt: Suggest revisions or refinements. Use prompt at link: [Step 5.1 Action Item 6](https://github.com/cmcntsh/JHEBP5_steps_resources#516-action-item-6-evalutate-revise-and-refine-the-search-ch-7-p-107)
 
-Use prompt at link: [Step 5.2 Action Item 1](https://github.com/cmcntsh/JHEBP5_steps_resources#521-action-item-1-establish-inclusion-and-exclusion-criteria-for-the-literature-screening-ch-7-p-110)
+Screen search results for relevant literature (You will need to upload a file that contains titles and abstracts for search results. This prompt may need to be revised to format final outputs in the desired way.) Use prompt at link: [Step 5.2 Action Item 1](https://github.com/cmcntsh/JHEBP5_steps_resources#521-action-item-1-establish-inclusion-and-exclusion-criteria-for-the-literature-screening-ch-7-p-110)
 
-Use prompt at link: [Step 5.2 Action Item 4](https://github.com/cmcntsh/JHEBP5_steps_resources#524-action-item-4-complete-full-text-screening-for-all-articles-that-remain-after-screening-the-titles-and-abstracts-ch-7-p-112)
+Screen the full text of an article. (You will need to upload the article.) Use prompt at link: [Step 5.2 Action Item 4](https://github.com/cmcntsh/JHEBP5_steps_resources#524-action-item-4-complete-full-text-screening-for-all-articles-that-remain-after-screening-the-titles-and-abstracts-ch-7-p-112)
 
 #### JHEBP Step 6 Appraise the Evidence
 
-See prompts under [Step 6](https://github.com/cmcntsh/JHEBP5_steps_resources#6-evidence-appriase-the-evidence)
+Classify the evidence. See prompts under [Step 6](https://github.com/cmcntsh/JHEBP5_steps_resources#6-evidence-appriase-the-evidence)
 
 ### Question Development Tool (resubmit)
 
