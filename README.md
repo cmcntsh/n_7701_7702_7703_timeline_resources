@@ -185,6 +185,7 @@ While these articles are addressed to a legal audience, the same principles appl
 * Module 3 [Retrieve and screen literature in Zotero](https://www.youtube.com/watch?v=rA4diWLPKxA)
 * Module 4 [Literature Search Suggestions Based on EBP Question](https://youtu.be/f8R9JhNLhPU)
 * Module 4 [Literature Inclusion or Exclusion and Classification](https://youtu.be/UxOTGKecT8Y)
+* Module 4 [Appraise Evidence Example](https://youtu.be/yrYzfGQ27KU)
 
 </details>
 
@@ -288,6 +289,7 @@ This assignment involves steps 4, 5, and 6 of the JHEBP 5th Edition process. Tho
 
 * Demo video: [Literature Search Suggestions Based on EBP Question](https://youtu.be/f8R9JhNLhPU)
 * Demo video: [Literature Inclusion or Exclusion and Classification](https://youtu.be/UxOTGKecT8Y)
+* Demo video: [Appraise Evidence Example](https://youtu.be/yrYzfGQ27KU)
 
 #### JHEBP Step 4 Conduct a Best Evidence Search and Appraisal
 
