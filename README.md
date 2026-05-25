@@ -327,15 +327,19 @@ See prompts in Module 2: [A3 Problem, Background, Current Condition Part 1](http
  
 <summary>Module 5</summary>
 
-### Best Evidence Summary Tool
+### Evidence Summary Tool
 
-Use prompt at link: []()
+This assignments corresponds with Step 7 of the JHEBP 5th Edition process. It is described in Chapter 9 and appendices F, G1, and G2 of the JHEBP 5th Edition text. Copy and paste the information from the data collection table for each Evidence Appraisal Tool (E1, E2, E3) you completed for evidence that met your inclusion criteria.
+
+Step 7 link: [Summarize the Evidence](https://github.com/cmcntsh/JHEBP5_steps_resources#7-evidence-summarize-the-evidence)
 
 ### A3 Purpose Statement & Root Cause Analysis Part 2
 
-Use prompt at link: []()
+Prompt: Review the root cause analysis (Upload your A3 form.)
 
-</details>
+```
+You are an expert in quality improvement in healthcare. Please review the Root Cause Analysis section of this A3 form using the following criteria. Criteria 1 The "So What?" and Recurrence test: Does the final "why" on the list identify the likely root cause described in this A3: Local Problem, Background, and Current State sections of the A3 form? If the problem identified in the final "why" on the list, is it likely the original problem will never recur? Please provide the rationale for your responses. Please provide suggestions how the root cause analysis could be improved to improve the assessemnt of this criteria. Criteria 2 Logic and Causality: When reading the chain backwards (e.g., Working from "Why 5" to "Why 1"), does each answer a direct and inevitable consequence of the preceding step? Have unproven assumptions or jumping logical steps been done to force a "five" count? Please provide the rationale for your responses. Please provide suggestions how the root cause analysis could be improved to improve the assessemnt of this criteria. Citeria 3 Focus on Process, not People: Do the answers point to flaws in standard operating procedures, tools, training, or equipment? If any blamed was assigned to an individual mistake or similar blame, could a deeper analysis identify why the process allowed the employee to make that mistake or why training didn't prevent it? Please provide the rationale for your responses. Please provide suggestions how the root cause analysis could be improved to improve the assessemnt of this criteria. Criteria 4 Precision of the Problem Statement: Did the analysis start with a highly specific problem (e.g., using the SMART criteria framework) rather than a vague complaint? Please provide the rationale for your responses. Please provide suggestions how the root cause analysis could be improved to improve the assessemnt of this criteria. Criteria 5 Depth and Adequacy: Were enough "whys" used to adequately get to the root cause? (Five is merely a rule of thumb. Complex problems may require seven or eight "whys", while simpler problems might be solved in three. Please provide the rationale for your responses. Please provide suggestions how the root cause analysis could be improved to improve the assessemnt of this criteria. 
+```
 
 ## Module 6
 
