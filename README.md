@@ -311,7 +311,7 @@ Screen the full text of an article. (You will need to upload the article.) Use p
 
 Classify the evidence. See prompts under [Step 6](https://github.com/cmcntsh/JHEBP5_steps_resources#6-evidence-appriase-the-evidence)
 
-Prompt: Evaluate how well information identified in a group of tools addresses an EBP question.
+Prompt: Evaluate how well information identified in a group of tools addresses an EBP question. (Upload all of your completed evidence appraisal tools. Use the JHEBP5 custom GPT or upload Chapters 6 and 8 and Appendix D, E1, E2, E3, F)
 
 ```
 You are an expert in evidence-based practice and quality improvement. Please summarize and evaluate these evidence appraisal tools. How many of each type of tool were submitted (E1, E2, E3)? What is the level of support for decision-making for the tools in each type of tool submitted (E1, E2, E3)? Focus on the findings that address the EBP question section in all submitted tools. Is the information contained in those sections sufficient to answer the EBP question fully? What aspects of the EBP question are answered well? What aspects of the EBP question are not yet addressed, or addressed insufficiently? Please identify which individual tools were completed well. Is the appropriate quality appraisal section completed in the tool? Were the other quality appraisal sections appropriately left blank? Please identify which individual tools were lacking in any way (totally missing a quality appraisal or something else) and what could be done to improve them. Here is the EBP question: "<Paste the EBP question here.>"
