@@ -341,7 +341,7 @@ Step 7 link: [Summarize the Evidence](https://github.com/cmcntsh/JHEBP5_steps_re
 
 Big evidence tables are often easier to navigate in Excel rather than Word. I suggest using this Excel template instead of the Word form provided in Canvas.
 
-![Click here to download the guide document.](https://github.com/cmcntsh/N_7701_7702_7703_timeline_resources/raw/refs/heads/main/files/YYYY-MM-DD_EvidenceSummaryTableExcelTemplate_YourName.docx)
+![Click here to download the Excel template.](https://github.com/cmcntsh/N_7701_7702_7703_timeline_resources/raw/refs/heads/main/files/YYYY-MM-DD_EvidenceSummaryTableExcelTemplate_YourName.docx)
 
 ### A3 Purpose Statement & Root Cause Analysis Part 2
 
