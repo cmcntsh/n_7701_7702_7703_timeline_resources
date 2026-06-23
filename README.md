@@ -361,7 +361,11 @@ You are an expert in quality improvement in healthcare. Please review the Root C
 
 ### Summary, Synthesis, & Best-Evidence Recommendation
 
-Use prompt at link: []()
+Prompt: Compare the Evidence Summary Table and JHEBP5 Appendix H and evaluate how well the EBP question is answered.
+
+```
+You are an expert in healthcare quality improvement project with extensive expertise in evaluating literature. I'm trying to answer this evidence-based practice question: "<Paste EBP question here in quotes.>" Please compare the contents of Appendix H Section 1 Synthesized Findings with the Findings that help answer the EBP question column in the Evidence Summary Tool. Do the Synthesized Findings with Article Numbers in Appendix H Section 1 align with the contents of the Evidence Summary Tool for the different levels of Support for Decision-Making (Strong, Moderate, Limited)? In addition, please compare the contents of Appendix H Section 2 Best Evidence Recommendations with the contents of Appendix H Section 1 and the information in the Evidence Summary tool. Do the contents of Appendix H Section 2 align with the contents of Appendix H Section 1 and the Evidence Summary Tool? Do the contents of the Characteristics of the Recommendations sections (High certainty recommendations, Reasonable certainty recommendations, Reasonable to low certainty recommendations, Low certainty recommendations) in Section 2 seem they are placed in the appropriate sections based on the level of support for decision-making content in Section 1? Finally, please evaluate how well the content of the Best Evidence Recommendations and the Recommendations Lacking Adequate Evidence subsections of Section 2 answer the EBP question. Is the EBP question answered complete? What elements of the EBP question have not been answered? If there are elements of the EBP question that are not answered, can you suggest places to search for the appropriate evidence that may answer the unanswered elements and search terms to use when searching each resource?
+```
 
 ### Searching, Screening, and Appraising the Evidence
 
