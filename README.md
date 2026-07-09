@@ -381,7 +381,27 @@ Use prompt at link: []()
 
 ### A3 Best Practice Recommendations & Implementation Plan
 
-Use prompt at link: []()
+Prompt: Evaluate all sections of the A3 document (Use JHEBP custom GPT. Upload student A3 document. Upload Problem Description document from Files. Upload Appendix H. Upload Appendix I.)
+
+```
+Please evaluate each section of the A3 document that contains information using the following criteria. If a section of the A3 document is not completed yet, simply state that the section does not contain enough information to perform an evaluation. 
+## A3: Local Problem (Practice Phase - Problem Statement)
+Does the section provide a succinct summary of paragraph 1 described in the 2026-04-30_writing_a_problem_description document? Is there any important or significant information outlined in the paragraph 1 description that is missing from the A3: Local Problem section? Are there any succinct statements that would improve this section without making it overly long?
+## Background (Practice Phase - Identifying the Problem)
+Does the section provide a succinct summary of paragraph 4 described in the 2026-04-30_writing_a_problem_description document? Is there any important or significant information outlined in the paragraph 4 description that is missing from the Background section? Are there any succinct statements that would improve this section without making it overly long?
+## Current State (Practice Phase)
+Does the section provide a succinct summary of paragraphs 2 and 3 described in the 2026-04-30_writing_a_problem_description document? Is there any important or significant information outlined in the paragraphs 2 and 3 description that is missing from the Current State section? Are there any succinct statements that would improve this section without making it overly long?
+Are the A3: Local Problem, Background, and Current State sections congruent and coherent? Are there any areas of discontinuity or disconnection between those sections? How could any discontinuity problems between these sections be corrected?
+## Root Cause Analysis (Practice Phase)
+Does the Root Cause Analysis section align well with what is described in the A3: Local Problem, Background, and Current State sections? Are there any changes that should be made to the Root Cause Analysis section?
+## Purpose Statement:
+Does the Purpose Statement section address the root cause identified in the Root Cause Analysis section, and does it align well with the problem described in the A3: Local Problem, Background, and Current State sections?
+## SMART Goal:
+Does the SMART Goal align with the Purpose Statement? Is the SMART goal specific, measurable, attainable, relevant, and time-based?
+## Best Practice Project Recommendations (Evidence Phase - Analyze external & internal evidence)Do the Best Practice Project Recommendations match what is stated in Appendix H Synthesis & Best Evidence Recommendations Tool and Appendix I Translation Tool? Are there any elements of what is stated in Appendix H and Appendix I that are missing from the Best Practice Project Recommendations section that should be added without making the Best Practice Project Recommendations section without making it overly long?
+## Implementation Outline / Plan (Evidence Phase)
+Does the Implementation Outline align with the Purpose Statement an SMART Goal? Is the implementation plan likely to achieve the aims stated in the Purpose Statement and SMART Goal? Are there any gaps or areas of disconnect between the information contained in the rows and columns of the Implementation Outline? How can the implementation outline be improved without making the outline overly long?
+```
 
 ### Purpose Statement and A3 Root Cause Analysis Part 2 (resubmit)
 
