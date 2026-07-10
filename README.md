@@ -403,6 +403,17 @@ Does the SMART Goal align with the Purpose Statement? Is the SMART goal specific
 Does the Implementation Outline align with the Purpose Statement an SMART Goal? Is the implementation plan likely to achieve the aims stated in the Purpose Statement and SMART Goal? Are there any gaps or areas of disconnect between the information contained in the rows and columns of the Implementation Outline? How can the implementation outline be improved without making the outline overly long?
 ```
 
+Prompt: Follow up by evaluating how well Appendix H is completed and compare with updated Evidence Summary Table
+
+```
+How well was Appendix H completed? Do the contents of Appendix H align with the contents of the Evidence Summary Table?
+```
+
+Prompt: Follow up by evaluating how well Appendix I is completed and compare with Appendix H and the Evidnece Summary Table
+
+```
+How well was Appendix I completed? Do the contents of Appendix I align with the contents of Appendix H and the Evidence Summary Table?
+```
 ### Purpose Statement and A3 Root Cause Analysis Part 2 (resubmit)
 
 Use prompt at link: []()
