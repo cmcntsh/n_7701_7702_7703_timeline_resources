@@ -448,7 +448,12 @@ Use prompt at link: []()
 
 ### A3 Evaluation Part 4
 
-Use prompt at link: []()
+Prompt: Compare part 3 resubmit with previous submission and evaluate the Evaluation section
+
+```
+Here is an updated version of the A3 document. Please compare each section of the A3 document with the corresponding section in the earlier submission. (Local Problem; Background; Current State; Root Cause Analysis; Purpose Statement; SMART Goal; Best Practice Project Recommendations; Implementation Outline) What changes and updates are present in the new version? If there are changes in the updated version, do they address the weaknesses in the original version? In addition, please evaluate the Evaluation section. Do the contents of the Evaluation section align with the Purpose Statement, SMART Goal, Best Practice Project Recommendations, and the Implementation Outline? What domain(s) of quality are the focus of the Evaluation measures (safety, timeliness, equity, efficiency, effectiveness, patient-centered care)? For each Evaluation measure, evaluate how well it addresses the Considerations for quality measure selection: Is the name of the measure stated in a recognizable way? Where is the measure from? Is it a process, outcome, structural, or balancing measure? How does the measure reflect the goal of the project? Is there a better measure? What is the purpose of the measure? What is the unit of measurement for the measure? What is included in the calculation? How is data for the measure collected? What is the source of data for the measure? Who will collect the data for each measure? How will the data be reported and analyzed? What do changes in the measured value mean? Summarize the types of measures present by type (process, outcome, structural, balancing). Are there any gaps in the Evaluation plan? Are there any recommended changes to improve the evaluation section and keep the evaluation plan reasonable?<img width="740" height="287" alt="image" src="https://github.com/user-attachments/assets/5b4617db-dc19-4e53-8452-b0376b1d0020" />
+
+```
 
 ### A3 Best Practice Recommendations & Implementation Plan Part 3 (resubmit)
 
