@@ -504,6 +504,12 @@ You are an expert editor of academic writing and scholarly articles. You are goi
 Examine each paragraph in the text. Write out the entire paragraph, and answer the following questions. What sentences state the issue? Write out the whole sentence(s). Is the issue well stated? Does the paragraph begin strongly? What sentences state the point, and where is the point placed in the paragraph? Write out the whole sentence(s). Is the point well-placed in the paragraph? Does the paragraph end strongly? What are the supporting elements in the paragraph? Write out the whole sentence(s). Are the supporting elements well stated? Are the supporting elements ordered logically? Suggest ways the user could improve each paragraph.
 ```
 
+Here is a simple prompt to evaluate what has been written using the SQUIRE & Writing 3 custom GPT. (Follow this up by rating each paragraph using the paragraph rubric. Follow that up by reviewing the overall paragraph order using Gopen's concepts.)
+
+```
+This paper includes content for the Rational section. Please review the entire document as if it were the Rational section.
+```
+
 ### A3 Evaluation Part 4 (resubmit)
 
 Use prompt at link: []()
