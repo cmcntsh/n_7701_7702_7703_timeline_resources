@@ -532,7 +532,11 @@ Use prompt at link: []()
 
 ### Project Proposal PPT Draft
 
-Use prompt at link: []()
+Prompt: Compare the proposal PPT draft against the proposal template and the final A3 document (Upload all 3 documents.)
+
+```
+You are an expert in healthcare quality improvement and evidence-based practice. I need to evaluate this project proposal presentation against the project proposal template to ensure that the sections match and are in the same order and that the formatting for each section in the presentation matches the formatting in the template. For each presentation template section, identify areas of match and mismatch in the presentation. In addition, I need to check that the content of each section of the presentation matches the content in the A3 document. For each section of the A3, identify the corresponding section of the presentation and evaluate how well the material in the presentation represents what is contained in the A3 for that section.
+```
 
 ### JHEBP Assignment (resubmit)
 
