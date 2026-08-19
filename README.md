@@ -167,7 +167,7 @@ While these articles are addressed to a legal audience, the same principles appl
 
 # NURS 7701 Resources
 
-<details open>
+<details>
 
 <summary>NURS 7701 Modules</summary>
 
@@ -552,7 +552,7 @@ Use prompt at link: []()
 
 # NURS 7702 Resources
 
-<details>
+<details open>
  
 <summary>NURS 7702 Modules</summary>
 
