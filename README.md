@@ -556,7 +556,7 @@ Use prompt at link: []()
  
 <summary>NURS 7702 Modules</summary>
 
-## Module 1
+## Module 1 (Week 1 Aug 24-28)
 
 <details>
  
@@ -566,11 +566,71 @@ Use prompt at link: []()
 
 </details>
  
-## Module 2
+## Module 2 (Week 2 Aug 31 - Sep 4)
 
 <details>
  
 <summary>Module 2</summary>
+
+### Example Subhead
+
+</details>
+ 
+## Module 3 (Week 3 Sep 7-11)
+
+<details>
+ 
+<summary>Module 3</summary>
+
+### Example Subhead
+
+</details>
+ 
+## Phase 1 (Week 4 Sep 14-18)
+
+<details>
+ 
+<summary>Phase 1</summary>
+
+### Example Subhead
+
+</details>
+ 
+## Phase 2 (Weeks 5, 6, 7 Sept 21 - Oct 9)
+
+<details>
+ 
+<summary>Phase 2</summary>
+
+### Example Subhead
+
+</details>
+ 
+## Phase 3 (Weeks 8, 9 Oct 19 - Oct 31)
+
+<details>
+ 
+<summary>Phase 3</summary>
+
+### Example Subhead
+
+</details>
+ 
+## Phase 4 (Weeks 10, 11, 12 Nov 2-20)
+
+<details>
+ 
+<summary>Phase 4</summary>
+
+### Example Subhead
+
+</details>
+ 
+## Phase 5 (Weeks 13, 14, 15, 16 Nov 23 - Dec 16)
+
+<details>
+ 
+<summary>Phase 5</summary>
 
 ### Example Subhead
 
