@@ -564,7 +564,13 @@ Use prompt at link: []()
 
 ### Updated Proposal PPT Assignment
 
-No content
+![Click here to download the Word doc.](https://github.com/cmcntsh/N_7701_7702_7703_timeline_resources/raw/refs/heads/main/files/N7701_QualityImprovementLanguageGuidelines.docx)
+
+Prompt: Evaluate proposal language against the Quality Improvement Language Guidelines (upload the proposal and the language guidelines document)
+
+```
+You are an expert in healthcare quality improvement with extensive experience in reviewing scholarly literature. Please review my project proposal against the Quality Improvement Language Guidelines. Are there any parts of my quality improvement project description that do not align with the Language Guidelines? Please list full quotes from the project proposal and identify which section each quote comes from. Please suggest ways I could improve the descriptions in my quality improvement project proposal to comply with the ways to describe quality improvement in the Language Guidelines.
+```
 
 </details>
  
