@@ -562,7 +562,9 @@ Use prompt at link: []()
  
 <summary>Module 1</summary>
 
-### Example Subhead
+### Updated Proposal PPT Assignment
+
+No content
 
 </details>
  
@@ -572,7 +574,13 @@ Use prompt at link: []()
  
 <summary>Module 2</summary>
 
-### Example Subhead
+### QI Assessment
+
+No content
+
+### Final PPT Proposal Assignment
+
+No content
 
 </details>
  
@@ -582,7 +590,9 @@ Use prompt at link: []()
  
 <summary>Module 3</summary>
 
-### Example Subhead
+### Revised Proposal PPT after Presentation (if needed)
+
+No content
 
 </details>
  
@@ -590,9 +600,11 @@ Use prompt at link: []()
 
 <details>
  
-<summary>Phase 1</summary>
+<summary>Phase 1 Title, Problem, Available Knowledge</summary>
 
-### Example Subhead
+### Manuscript Title, Problem, and Available Knowledge
+
+Use the [SQUIRE & Writing 3](https://chatgpt.com/g/g-69ebf024d09881919e7db00ece285665-squire-writing-3) custom GPT and review each of those sections.
 
 </details>
  
@@ -600,9 +612,11 @@ Use prompt at link: []()
 
 <details>
  
-<summary>Phase 2</summary>
+<summary>Phase 2 Rationale and Specific Aims</summary>
 
-### Example Subhead
+### Manuscript: Rationale and Specific Aims
+
+Use the [SQUIRE & Writing 3](https://chatgpt.com/g/g-69ebf024d09881919e7db00ece285665-squire-writing-3) custom GPT and review each of those sections.
 
 </details>
  
@@ -610,9 +624,11 @@ Use prompt at link: []()
 
 <details>
  
-<summary>Phase 3</summary>
+<summary>Phase 3 Context and Interventions</summary>
 
-### Example Subhead
+### Manuscript: Context and Interventions
+
+Use the [SQUIRE & Writing 3](https://chatgpt.com/g/g-69ebf024d09881919e7db00ece285665-squire-writing-3) custom GPT and review each of those sections.
 
 </details>
  
@@ -620,9 +636,11 @@ Use prompt at link: []()
 
 <details>
  
-<summary>Phase 4</summary>
+<summary>Phase 4 Measures and Cost</summary>
 
-### Example Subhead
+### Manuscript: Measures and Cost
+
+Use the [SQUIRE & Writing 3](https://chatgpt.com/g/g-69ebf024d09881919e7db00ece285665-squire-writing-3) custom GPT and review each of those sections.
 
 </details>
  
@@ -630,9 +648,11 @@ Use prompt at link: []()
 
 <details>
  
-<summary>Phase 5</summary>
+<summary>Phase 5 Analysis and Ethics</summary>
 
-### Example Subhead
+### Manuscript: Analysis and Ethics
+
+Use the [SQUIRE & Writing 3](https://chatgpt.com/g/g-69ebf024d09881919e7db00ece285665-squire-writing-3) custom GPT and review each of those sections.
 
 </details>
  
