@@ -556,7 +556,25 @@ Use prompt at link: []()
  
 <summary>NURS 7702 Modules</summary>
 
-No content here yet.
+## Module 1
+
+<details>
+ 
+<summary>Module 1</summary>
+
+### Example Subhead
+
+</details>
+ 
+## Module 2
+
+<details>
+ 
+<summary>Module 2</summary>
+
+### Example Subhead
+
+</details>
  
 </details>
 
