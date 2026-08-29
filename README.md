@@ -612,6 +612,18 @@ No content
 
 Use the [SQUIRE & Writing 3](https://chatgpt.com/g/g-69ebf024d09881919e7db00ece285665-squire-writing-3) custom GPT and review each of those sections.
 
+Use the [APA 7 & Template Review 3](https://chatgpt.com/g/g-6986461a62e08191937799bc016e7846-apa-7-and-template-review-3) custom GPT and review the APA elements in the paper.
+
+Use the prompt below to evaluate the language used in the paper so the focus is firmly on QI.
+
+![Click here to download the Word doc.](https://github.com/cmcntsh/N_7701_7702_7703_timeline_resources/raw/refs/heads/main/files/N7701_QualityImprovementLanguageGuidelines.docx)
+
+Prompt: Evaluate paper language against the Quality Improvement Language Guidelines (upload the proposal and the language guidelines document)
+
+```
+You are an expert in healthcare quality improvement with extensive experience in reviewing scholarly literature. Please review this paper against the Quality Improvement Language Guidelines. Are there any parts of the paper that do not align with the Language Guidelines? Please list full quotes from the paper and identify which section and page number each quote comes from. Please suggest ways I could improve the language in the paper to comply with the ways to describe quality improvement in the Language Guidelines.
+```
+
 </details>
  
 ## Phase 2 (Weeks 5, 6, 7 Sept 21 - Oct 9)
@@ -623,6 +635,18 @@ Use the [SQUIRE & Writing 3](https://chatgpt.com/g/g-69ebf024d09881919e7db00ece2
 ### Manuscript: Rationale and Specific Aims
 
 Use the [SQUIRE & Writing 3](https://chatgpt.com/g/g-69ebf024d09881919e7db00ece285665-squire-writing-3) custom GPT and review each of those sections.
+
+Use the [APA 7 & Template Review 3](https://chatgpt.com/g/g-6986461a62e08191937799bc016e7846-apa-7-and-template-review-3) custom GPT and review the APA elements in the paper.
+
+Use the prompt below to evaluate the language used in the paper so the focus is firmly on QI.
+
+![Click here to download the Word doc.](https://github.com/cmcntsh/N_7701_7702_7703_timeline_resources/raw/refs/heads/main/files/N7701_QualityImprovementLanguageGuidelines.docx)
+
+Prompt: Evaluate paper language against the Quality Improvement Language Guidelines (upload the proposal and the language guidelines document)
+
+```
+You are an expert in healthcare quality improvement with extensive experience in reviewing scholarly literature. Please review this paper against the Quality Improvement Language Guidelines. Are there any parts of the paper that do not align with the Language Guidelines? Please list full quotes from the paper and identify which section and page number each quote comes from. Please suggest ways I could improve the language in the paper to comply with the ways to describe quality improvement in the Language Guidelines.
+```
 
 </details>
  
@@ -636,6 +660,18 @@ Use the [SQUIRE & Writing 3](https://chatgpt.com/g/g-69ebf024d09881919e7db00ece2
 
 Use the [SQUIRE & Writing 3](https://chatgpt.com/g/g-69ebf024d09881919e7db00ece285665-squire-writing-3) custom GPT and review each of those sections.
 
+Use the [APA 7 & Template Review 3](https://chatgpt.com/g/g-6986461a62e08191937799bc016e7846-apa-7-and-template-review-3) custom GPT and review the APA elements in the paper.
+
+Use the prompt below to evaluate the language used in the paper so the focus is firmly on QI.
+
+![Click here to download the Word doc.](https://github.com/cmcntsh/N_7701_7702_7703_timeline_resources/raw/refs/heads/main/files/N7701_QualityImprovementLanguageGuidelines.docx)
+
+Prompt: Evaluate paper language against the Quality Improvement Language Guidelines (upload the proposal and the language guidelines document)
+
+```
+You are an expert in healthcare quality improvement with extensive experience in reviewing scholarly literature. Please review this paper against the Quality Improvement Language Guidelines. Are there any parts of the paper that do not align with the Language Guidelines? Please list full quotes from the paper and identify which section and page number each quote comes from. Please suggest ways I could improve the language in the paper to comply with the ways to describe quality improvement in the Language Guidelines.
+```
+
 </details>
  
 ## Phase 4 (Weeks 10, 11, 12 Nov 2-20)
@@ -648,6 +684,18 @@ Use the [SQUIRE & Writing 3](https://chatgpt.com/g/g-69ebf024d09881919e7db00ece2
 
 Use the [SQUIRE & Writing 3](https://chatgpt.com/g/g-69ebf024d09881919e7db00ece285665-squire-writing-3) custom GPT and review each of those sections.
 
+Use the [APA 7 & Template Review 3](https://chatgpt.com/g/g-6986461a62e08191937799bc016e7846-apa-7-and-template-review-3) custom GPT and review the APA elements in the paper.
+
+Use the prompt below to evaluate the language used in the paper so the focus is firmly on QI.
+
+![Click here to download the Word doc.](https://github.com/cmcntsh/N_7701_7702_7703_timeline_resources/raw/refs/heads/main/files/N7701_QualityImprovementLanguageGuidelines.docx)
+
+Prompt: Evaluate paper language against the Quality Improvement Language Guidelines (upload the proposal and the language guidelines document)
+
+```
+You are an expert in healthcare quality improvement with extensive experience in reviewing scholarly literature. Please review this paper against the Quality Improvement Language Guidelines. Are there any parts of the paper that do not align with the Language Guidelines? Please list full quotes from the paper and identify which section and page number each quote comes from. Please suggest ways I could improve the language in the paper to comply with the ways to describe quality improvement in the Language Guidelines.
+```
+
 </details>
  
 ## Phase 5 (Weeks 13, 14, 15, 16 Nov 23 - Dec 16)
@@ -659,6 +707,18 @@ Use the [SQUIRE & Writing 3](https://chatgpt.com/g/g-69ebf024d09881919e7db00ece2
 ### Manuscript: Analysis and Ethics
 
 Use the [SQUIRE & Writing 3](https://chatgpt.com/g/g-69ebf024d09881919e7db00ece285665-squire-writing-3) custom GPT and review each of those sections.
+
+Use the [APA 7 & Template Review 3](https://chatgpt.com/g/g-6986461a62e08191937799bc016e7846-apa-7-and-template-review-3) custom GPT and review the APA elements in the paper.
+
+Use the prompt below to evaluate the language used in the paper so the focus is firmly on QI.
+
+![Click here to download the Word doc.](https://github.com/cmcntsh/N_7701_7702_7703_timeline_resources/raw/refs/heads/main/files/N7701_QualityImprovementLanguageGuidelines.docx)
+
+Prompt: Evaluate paper language against the Quality Improvement Language Guidelines (upload the proposal and the language guidelines document)
+
+```
+You are an expert in healthcare quality improvement with extensive experience in reviewing scholarly literature. Please review this paper against the Quality Improvement Language Guidelines. Are there any parts of the paper that do not align with the Language Guidelines? Please list full quotes from the paper and identify which section and page number each quote comes from. Please suggest ways I could improve the language in the paper to comply with the ways to describe quality improvement in the Language Guidelines.
+```
 
 </details>
  
