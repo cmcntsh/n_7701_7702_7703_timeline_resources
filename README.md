@@ -607,7 +607,7 @@ Compare the proposal against the language guidelines document. Does the proposal
 
 ## List the Changes
 
-Please list the suggested changes to correct identified issues slide-by-slide.
+Please list the suggested changes to correct identified issues slide-by-slide with the full-text identification of the original text and the improvement suggestion that was provided in the previous analysis sections.
 ```
 
 </details>
