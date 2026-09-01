@@ -604,6 +604,10 @@ Do the proposal translation summary elements align with other parts of the docum
 ## Evaluate the QI language
 
 Compare the proposal against the language guidelines document. Does the proposal follow the language guidelines? Are there any statements in the proposal that need to be adjusted? For recommended changes, please identify the original text and what the updated text should say.
+
+## List the Changes
+
+Please list the suggested changes to correct identified issues slide-by-slide.
 ```
 
 </details>
