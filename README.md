@@ -579,31 +579,31 @@ You are an expert in healthcare quality improvement and evidence-based practice.
 
 ## Compare the proposal against the proposal template
 
-Does the proposal have the same main slides as the proposal template? Are the main slides in the same order? Do the proposal slides use the same formatting as the proposal template?
+Does the proposal have the same main slides as the proposal template? Are the main slides in the same order? Do the proposal slides use the same formatting as the proposal template? For recommended changes, please identify the original text and what the updated text should say.
 
 ## Compare the proposal against the proposal day evaluation checklist
 
-Please rate the proposal against the criteria specified on the evaluation checklist. Are there any suggestions about how to adjust the proposal to better conform with the requirements of the checklist?
+Please rate the proposal against the criteria specified on the evaluation checklist. Are there any suggestions about how to adjust the proposal to better conform with the requirements of the checklist? For recommended changes, please identify the original text and what the updated text should say.
 
 ## Compare the proposal against the A3 document
 
-Does the proposal contain the same information as the A3 document, recognizing that the proposal should be more succinct since it is a presentation and not a full description? Are there any areas of significant mismatch or difference between the two?
+Does the proposal contain the same information as the A3 document, recognizing that the proposal should be more succinct since it is a presentation and not a full description? Are there any areas of significant mismatch or difference between the two? For recommended changes, please identify the original text and what the updated text should say.
 
 ## Evaluate the implementation plan
 
-Does the implementation plan in the proposal align with the proposal purpose statement? Does the proposal implementation plan align with the proposal best practice recommendations? Is the proposal implementation plan logical and cohesive? Is the proposal implementation plan realistic for a 10- to 12-week implementation timeframe? Do the What, Who, How, and Process and Outcome content align for each row in the proposal implementation plan content?
+Does the implementation plan in the proposal align with the proposal purpose statement? Does the proposal implementation plan align with the proposal best practice recommendations? Is the proposal implementation plan logical and cohesive? Is the proposal implementation plan realistic for a 10- to 12-week implementation timeframe? Do the What, Who, How, and Process and Outcome content align for each row in the proposal implementation plan content? For recommended changes, please identify the original text and what the updated text should say.
 
 ## Review the proposal Evaluation
 
-Do the proposal metrics and measures align with the proposal Purpose statement, proposal best practice recommendations, and the proposal implementation plan? Are structure, process, outcome, and balancing measures correctly identified? Do the measures identify the practice change that is planned for the project? Can you suggest any other measurable ways to identify the practice change in this context and setting? Is the evaluation plan reasonable given the implementation timeframe?
+Do the proposal metrics and measures align with the proposal Purpose statement, proposal best practice recommendations, and the proposal implementation plan? Are structure, process, outcome, and balancing measures correctly identified? Do the measures identify the practice change that is planned for the project? Can you suggest any other measurable ways to identify the practice change in this context and setting? Is the evaluation plan reasonable given the implementation timeframe? For recommended changes, please identify the original text and what the updated text should say.
 
 ## Evaluate the Translation Summary
 
-Do the proposal translation summary elements align with other parts of the document? Are there any ways the elements in the translation summary should be strengthened or adjusted?
+Do the proposal translation summary elements align with other parts of the document? Are there any ways the elements in the translation summary should be strengthened or adjusted? For recommended changes, please identify the original text and what the updated text should say.
 
 ## Evaluate the QI language
 
-Compare the proposal against the language guidelines document. Does the proposal follow the language guidelines? Are there any statements in the proposal that need to be adjusted?
+Compare the proposal against the language guidelines document. Does the proposal follow the language guidelines? Are there any statements in the proposal that need to be adjusted? For recommended changes, please identify the original text and what the updated text should say.
 ```
 
 </details>
