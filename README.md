@@ -572,6 +572,40 @@ Prompt: Evaluate proposal language against the Quality Improvement Language Guid
 You are an expert in healthcare quality improvement with extensive experience in reviewing scholarly literature. Please review my project proposal against the Quality Improvement Language Guidelines. Are there any parts of my quality improvement project description that do not align with the Language Guidelines? Please list full quotes from the project proposal and identify which section each quote comes from. Please suggest ways I could improve the descriptions in my quality improvement project proposal to comply with the ways to describe quality improvement in the Language Guidelines.
 ```
 
+Prompt: Evaluate the proposal against other materials (upload the proposal, most recent A3, proposal template, proposal day checklist, QI language guidelines)
+
+```
+You are an expert in healthcare quality improvement and evidence-based practice. Please review the PowerPoint presentation that has been uploaded.
+
+## Compare the proposal against the proposal template
+
+Does the proposal have the same main slides as the proposal template? Are the main slides in the same order? Do the proposal slides use the same formatting as the proposal template?
+
+## Compare the proposal against the proposal day evaluation checklist
+
+Please rate the proposal against the criteria specified on the evaluation checklist. Are there any suggestions about how to adjust the proposal to better conform with the requirements of the checklist?
+
+## Compare the proposal against the A3 document
+
+Does the proposal contain the same information as the A3 document, recognizing that the proposal should be more succinct since it is a presentation and not a full description? Are there any areas of significant mismatch or difference between the two?
+
+## Evaluate the implementation plan
+
+Does the implementation plan in the proposal align with the proposal purpose statement? Does the proposal implementation plan align with the proposal best practice recommendations? Is the proposal implementation plan logical and cohesive? Is the proposal implementation plan realistic for a 10- to 12-week implementation timeframe? Do the What, Who, How, and Process and Outcome content align for each row in the proposal implementation plan content?
+
+## Review the proposal Evaluation
+
+Do the proposal metrics and measures align with the proposal Purpose statement, proposal best practice recommendations, and the proposal implementation plan? Are structure, process, outcome, and balancing measures correctly identified? Do the measures identify the practice change that is planned for the project? Can you suggest any other measurable ways to identify the practice change in this context and setting? Is the evaluation plan reasonable given the implementation timeframe?
+
+## Evaluate the Translation Summary
+
+Do the proposal translation summary elements align with other parts of the document? Are there any ways the elements in the translation summary should be strengthened or adjusted?
+
+## Evaluate the QI language
+
+Compare the proposal against the language guidelines document. Does the proposal follow the language guidelines? Are there any statements in the proposal that need to be adjusted?
+```
+
 </details>
  
 ## Module 2 (Week 2 Aug 31 - Sep 4)
