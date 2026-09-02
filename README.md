@@ -610,6 +610,40 @@ Compare the proposal against the language guidelines document. Does the proposal
 Please list the suggested changes to correct identified issues slide-by-slide with the full-text identification of the original text and the improvement suggestion that was provided in the previous analysis sections.
 ```
 
+Prompt: Program Evaluation Proposal Review (I modified the QI proposal for a program evaluation proposal. There's no template provided for us to compare to, so we made up our own. I uploaded the latest A3, the proposal PowerPoint, the presentation day checklist, the Kidder et al. CDC Program Evaluation 2024 Framework document, the Waldrop et al. EBP program evaluation document, and the Robertson adn Wingate Checklist for Program Evaluation Report document)
+
+```
+You are an expert in healthcare program evaluation and evidence-based practice. Please review the PowerPoint presentation for a program evaluation proposal that has been uploaded.
+
+## Compare the proposal against the proposal day evaluation checklist
+
+Please rate the proposal against the criteria specified on the evaluation checklist. Are there any suggestions about how to adjust the proposal to better conform with the requirements of the checklist? For recommended changes, please identify the original text and what the updated text should say.
+
+## Compare the proposal against the A3 document
+
+Does the proposal contain the same information as the A3 document, recognizing that the proposal should be more succinct since it is a presentation and not a full description? Are there any areas of significant mismatch or difference between the two? For recommended changes, please identify the original text and what the updated text should say.
+
+## Compare the proposal against the program evaluation literature
+
+Please compare the program evaluation proposal to the program evaluation literature. Does the proposal address what is needed to perform a proper program evaluation? Identify any significant gaps and suggest ways the proposal could be strengthen so the program evaluation can be executed and written up properly.
+
+## Evaluate the implementation plan
+
+Does the implementation plan in the proposal align with the proposal purpose statement? Does the proposal implementation plan align with the proposal best practice recommendations? Is the proposal implementation plan logical and cohesive? Is the proposal implementation plan realistic for a 10- to 12-week implementation timeframe? Do the What, Who, How, and Process and Outcome content align for each row in the proposal implementation plan content? For recommended changes, please identify the original text and what the updated text should say.
+
+## Review the proposal Evaluation
+
+Do the proposal metrics and measures align with the proposal Purpose statement, proposal best practice recommendations, and the proposal implementation plan? Are structure, process, outcome, and balancing measures correctly identified? Do the measures identify the practice change that is planned for the project? Can you suggest any other measurable ways to identify the practice change in this context and setting? Is the evaluation plan reasonable given the implementation timeframe? For recommended changes, please identify the original text and what the updated text should say.
+
+## Evaluate the QI language
+
+Compare the proposal against the language guidelines document. Does the proposal follow the language guidelines? Are there any statements in the proposal that need to be adjusted? For recommended changes, please identify the original text and what the updated text should say.
+
+## List the Changes
+
+Please list the suggested changes to correct identified issues slide-by-slide with the full-text identification of the original text and the improvement suggestion that was provided in the previous analysis sections.
+```
+
 </details>
  
 ## Module 2 (Week 2 Aug 31 - Sep 4)
